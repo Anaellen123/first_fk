@@ -55,8 +55,8 @@ html, body{
 
 }
 
-#header .profile .social-links a i:hover{
+#header .profile .social-links a:hover {
 
-    background: #149dddd;
+    background: #149ddd;
 
 }
