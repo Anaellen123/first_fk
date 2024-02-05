@@ -188,12 +188,13 @@ i.menu-mobile {
 
 }
 
-.menu-nav-activate{
+.menu-nav-active {
+
     overflow: hidden;
 }
 
 
-.menu-nav-activate #header{
+.menu-nav-active #header{
     left: 0;
 }
 

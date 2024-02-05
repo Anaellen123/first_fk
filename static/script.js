@@ -2,12 +2,12 @@
 
 
 const menuMobile = document.querySelector('.menu-mobile')
-const body = documet.querySelector('body')
+const body = document.querySelector('body')
 
-menuMobile.addEventListerner('click', () => {
+menuMobile.addEventListener('click', () => {
     menuMobile.classList.contains("bi-list")
-        ?menuMobile.classList.replace("bi-list", "bi-x")
-        :menuMobile.classList.replace("bi-x", "bi-list");
-        body.classList.toggle("mobile-nav-activate")
+        ? menuMobile.classList.replace("bi-list", "bi-x")
+        : menuMobile.classList.replace("bi-x", "bi-list");
+    body.classList.toggle("menu-nav-active")
 
 });
