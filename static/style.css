@@ -223,6 +223,25 @@ i.menu-mobile {
 
 }
 
+*::-webkit-scrollbar {
+    width: 10px;
+}
+
+*::-webkit-scrollbar-track {
+
+    width: 12px;
+    box-shadow: inet 0 0 .3rem #00000050;
+    background-color: #fff;
+
+}
+
+
+*::-webkit-scrollbar-thumb {
+    background-color: #212431;
+    border: 1px #fff;
+    border-radius 10px;
+
+}
 
 
 
