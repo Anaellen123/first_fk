@@ -263,8 +263,39 @@ i.menu-mobile {
     position: relative;
 }
 
+.cv .cv-item h4 {
 
+    line-height: 18px;
+    font-weight: 600;
+    text-transform: uppercase;
+    font-family: "Poppins", sans-serif;
+    color: #050d18
+    margin-bottom: 10px;
 
+}
+
+.cv .cv-item h5 {
+
+    background: #e4edf9;
+    padding: 5px 15px;
+    display: inline-block;
+    font-weight: 600;
+    margin-bottom: 10px
+
+}
+
+.cv .cv-item::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    width: 16px;
+    height: 16px;
+    border: 2px solid #1f5297;
+    background: #fff;
+    left: -9px;
+    border-radius: 50%;
+
+}
 
 
 
