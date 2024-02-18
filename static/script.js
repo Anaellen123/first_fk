@@ -20,8 +20,8 @@ const navItem = document.querySelectorAll('.nav-item')
 navItem.forEach(item => {
     item.addEventListener("click", () => {
         if (body.classList.contains("menu-nav-activate")) {
-            body.classList.remove("menu-nav-activate")
-            menuMobile.classList.replace("bi-x", "bi-list");
+          body.classList.remove("menu-nav-activate")
+          menuMobile.classList.replace("bi-x", "bi-list");
 
 
         }
