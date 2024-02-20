@@ -298,7 +298,39 @@ i.menu-mobile {
 
 }
 
+carousel-control-next-icon{
 
+    margin-left: 100px;
+}
+
+.carousel-indicators{
+    margin-bottom: -2rem;
+}
+
+.card{
+
+   ;
+
+}
+
+#card1{
+    margin-left: 110px;
+
+}
+
+#card2{
+    margin-left: 50px;
+
+}
+
+#crd1{
+    margin-left: 7rem;
+}
+
+#crd2{
+    margin-left: 3rem;
+
+}
 
 
 
