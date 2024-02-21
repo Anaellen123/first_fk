@@ -30,3 +30,34 @@ navItem.forEach(item => {
 
 
 })
+
+// Animar todos os atributos da tele que tiver data-anime
+
+const item = document.querySelectorAll("[data-anime]");
+
+const animeScroll = () => {
+    const windowTop = window.pageYOffset + window.innerHeight * 0.85;
+
+    item.forEach(element => {
+        if (windowTop > element.offsetTop){
+            element.classlist.add("animate");
+        }
+
+    })
+
+}
+
+
+animeScroll()
+
+window.addEventListener("scroll", ()=>{
+    animeScroll();
+
+})
+
+
+
+
+
+
+

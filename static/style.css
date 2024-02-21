@@ -298,37 +298,42 @@ i.menu-mobile {
 
 }
 
-carousel-control-next-icon{
 
-    margin-left: 100px;
-}
 
 .carousel-indicators{
     margin-bottom: -2rem;
 }
 
-.card{
-
-   ;
-
-}
-
-#card1{
-    margin-left: 110px;
+[data-anime]{
+    opacity:0;
+    transition: 1s;
 
 }
 
-#card2{
-    margin-left: 50px;
+[data-anime="down"]{
+    transform: translate3d(0, -100%, 0);
 
 }
 
-#crd1{
-    margin-left: 7rem;
+
+[data-anime="up"]{
+    transform: translate3d(0, 100%, 0);
+
 }
 
-#crd2{
-    margin-left: 3rem;
+[data-anime="left"]{
+    transform: translate3d(-100%, 0, 0);
+
+}
+
+[data-anime="right"]{
+    transform: translate3d(50px, 0, 0);
+
+}
+
+[data-anime].animate {
+    opacity: 1;
+    transform: translate3d(0, 0, 0);
 
 }
 
