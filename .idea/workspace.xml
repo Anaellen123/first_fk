@@ -5,6 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="05514fe4-1b69-44c2-b320-a93b680c51e3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/fk/Lib/site-packages/Flask_Mail-0.9.1.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fk/Lib/site-packages/Flask_Mail-0.9.1.dist-info/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fk/Lib/site-packages/Flask_Mail-0.9.1.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fk/Lib/site-packages/Flask_Mail-0.9.1.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fk/Lib/site-packages/Flask_Mail-0.9.1.dist-info/REQUESTED" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fk/Lib/site-packages/Flask_Mail-0.9.1.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fk/Lib/site-packages/Flask_Mail-0.9.1.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fk/Lib/site-packages/flask_mail.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/asset-15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/bannerPortifolio.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/blog.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/bluesmusic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/nova.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/pagina-links.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/plataforma-gen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/pokedex.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/timer.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/static/img/perfil.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/img/perfil.jpg" afterDir="false" />
